@@ -1,1 +1,2 @@
-# Pandas-Numpy
+# Pandas & Numpy
+series and Dataframe
