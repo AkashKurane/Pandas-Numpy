@@ -1,2 +1,2 @@
 # Pandas & Numpy
-series and Dataframe
+Series and Dataframe
